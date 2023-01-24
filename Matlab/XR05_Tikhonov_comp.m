@@ -10,7 +10,7 @@ load data/RadonMatrix A measang N P Nang
 load data/sinograms   mn 
 
 % Choose regularization parameter
-alpha = 50;
+alpha = 5;
 
 % Maximum number of iterations
 MAXITER = 3000;               
